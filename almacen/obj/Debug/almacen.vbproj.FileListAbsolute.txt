@@ -1,0 +1,19 @@
+G:\visual studio\almacen\almacen\bin\Debug\almacen.exe.config
+G:\visual studio\almacen\almacen\bin\Debug\almacen.exe
+G:\visual studio\almacen\almacen\bin\Debug\almacen.pdb
+G:\visual studio\almacen\almacen\bin\Debug\almacen.xml
+G:\visual studio\almacen\almacen\obj\Debug\almacen.Form1.resources
+G:\visual studio\almacen\almacen\obj\Debug\almacen.Resources.resources
+G:\visual studio\almacen\almacen\obj\Debug\almacen.vbproj.GenerateResource.Cache
+G:\visual studio\almacen\almacen\obj\Debug\almacen.exe
+G:\visual studio\almacen\almacen\obj\Debug\almacen.xml
+G:\visual studio\almacen\almacen\obj\Debug\almacen.pdb
+G:\visual studio\almacen\almacen\obj\Debug\almacen.vbprojResolveAssemblyReference.cache
+E:\GUARDA AQUI !!\almacen\almacen\bin\Debug\almacen.exe.config
+E:\GUARDA AQUI !!\almacen\almacen\obj\Debug\almacen.exe
+E:\GUARDA AQUI !!\almacen\almacen\obj\Debug\almacen.xml
+E:\GUARDA AQUI !!\almacen\almacen\obj\Debug\almacen.pdb
+E:\VISUAL STUDIO\almacen\almacen\bin\Debug\almacen.exe.config
+E:\VISUAL STUDIO\almacen\almacen\obj\Debug\almacen.exe
+E:\VISUAL STUDIO\almacen\almacen\obj\Debug\almacen.xml
+E:\VISUAL STUDIO\almacen\almacen\obj\Debug\almacen.pdb
